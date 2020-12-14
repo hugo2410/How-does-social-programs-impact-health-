@@ -1,0 +1,4 @@
+## Welcome to GitHub Pages
+## How does social programs impact health ?
+
+You can use the [editor on GitHub](https://github.com/hugo2410/datastory/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
